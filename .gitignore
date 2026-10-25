@@ -1,0 +1,6 @@
+*.o
+*.i
+*.s
+a.out
+calc
+hello
